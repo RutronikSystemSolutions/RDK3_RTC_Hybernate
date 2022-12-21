@@ -8,7 +8,7 @@ This example demonstrates one of the low power modes: hibernation. RTC alarm is 
 
 ## Requirements
 
-- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v2.4
+- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v3.0
 
 ## The Provisioning of the RDK3
 
